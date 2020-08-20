@@ -1,0 +1,2 @@
+# SampleDirForGit
+LIEU-XPS15-CI2のPowerShellからGitHubへpushできるか確認するためのリモートリポジトリです。
